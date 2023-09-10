@@ -1,0 +1,13 @@
+rtGetInf.o: C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtGetInf.c \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtwtypes.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/extern/include/tmwtypes.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtGetInf.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_nonfinite.h
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtwtypes.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/extern/include/tmwtypes.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtGetInf.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_nonfinite.h:

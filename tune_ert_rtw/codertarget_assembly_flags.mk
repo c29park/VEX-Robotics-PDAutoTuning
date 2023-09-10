@@ -1,0 +1,5 @@
+ASFLAGS_ADDITIONAL = -march=armv7-a -mfpu=neon-fp16 -mfloat-abi=softfp -DVexV5
+TARGET_LOAD_CMD = 
+TARGET_LOAD_CMD_ARGS = 
+TARGET_PKG_INSTALLDIR = C:/PROGRA~3/MATLAB/SUPPOR~1/R2022a/toolbox/target/SUPPOR~1/vexv5
+STACK_SIZE = 64

@@ -1,0 +1,16 @@
+rt_zcfcn.o: C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_zcfcn.c \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtwtypes.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/extern/include/tmwtypes.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/zero_crossing_types.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_zcfcn.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/solver_zc.h
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtwtypes.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/extern/include/tmwtypes.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/zero_crossing_types.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_zcfcn.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/solver_zc.h:

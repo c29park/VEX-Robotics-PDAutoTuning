@@ -1,0 +1,98 @@
+MW_Vex_TaskControl.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/src/MW_Vex_TaskControl.c \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/include/MW_Vex_TaskControl.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtwtypes.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/extern/include/tmwtypes.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/rtw_extmode.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/sysran_types.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/rtw_continuous.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtwtypes.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/rtw_solver.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/rtw_continuous.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/rtw/c/src/ext_mode/common/ext_work.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/rtw/c/src/ext_mode/common/ext_types.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/include/MW_SupportFunc_Wrapper.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/include/MW_TabManager.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_api.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_apitypes.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_apiuser.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_color.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_apitypes.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_apiuser.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune_types.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtGetNaN.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_nonfinite.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtGetInf.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_zcfcn.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/zero_crossing_types.h \
+ C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/solver_zc.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune_types.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune_private.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/multiword_types.h \
+ C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/include/MW_SupportFunc_Wrapper.h
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/include/MW_Vex_TaskControl.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtwtypes.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/extern/include/tmwtypes.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/rtw_extmode.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/sysran_types.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/rtw_continuous.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtwtypes.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/rtw_solver.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/rtw_continuous.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/rtw/c/src/ext_mode/common/ext_work.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/rtw/c/src/ext_mode/common/ext_types.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/include/MW_SupportFunc_Wrapper.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/include/MW_TabManager.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_api.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_apitypes.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_apiuser.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_color.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_apitypes.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/vexv5sdk.instrset/SDK_V5_1_0_12_0/vexv5/include/v5_apiuser.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune_types.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtGetNaN.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_nonfinite.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rtGetInf.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/rt_zcfcn.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/zero_crossing_types.h:
+
+C:/Users/chong/OneDrive/Desktop/ALL\ VEX\ PROGRAMS\ (2021\ -\ 2022)/simulink/include/solver_zc.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune_types.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune_private.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/multiword_types.h:
+
+C:/Users/chong/OneDrive/Desktop/tune_ert_rtw/tune.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/include/MW_SupportFunc_Wrapper.h:

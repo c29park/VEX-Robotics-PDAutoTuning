@@ -1,0 +1,2 @@
+portASM.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/3P.instrset/freertos.instrset/FreeRTOSv9.0.0/FreeRTOS/Source/portable/GCC/ARM_CA9/portASM.S

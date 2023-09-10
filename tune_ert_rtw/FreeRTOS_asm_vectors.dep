@@ -1,0 +1,2 @@
+FreeRTOS_asm_vectors.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/vexv5/src/FreeRTOS_asm_vectors.S
